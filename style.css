@@ -1,0 +1,20 @@
+
+:root {
+    --primary-color: #f59e0b;
+    --dark-bg: #18181b;
+    --text-light: #ffffff;
+    --text-dark: #1f2937;
+    --transition-speed: 0.3s;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    line-height: 1.6;
+    color: var(--text-dark);
+}
